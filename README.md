@@ -32,3 +32,4 @@ Alongside industry experience, I have contributed to applied AI research with pu
 
 ## 📫 Connect With Me
 - Email: lipykothari@gmail.com
+- Linkedin: https://www.linkedin.com/in/lipy-kothari-17b249287/
