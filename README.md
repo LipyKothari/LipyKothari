@@ -17,7 +17,6 @@ Alongside industry experience, I have contributed to applied AI research with pu
 ---
 
 🌱 Currently Exploring
-- Open Source Contributions with OWASP
 - Scalable AI Applications
 - Production-level Data Pipelines
 
